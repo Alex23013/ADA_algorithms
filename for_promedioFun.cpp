@@ -1,4 +1,9 @@
-
+#include <iostream>
+#include <chrono>
+#include <utility>
+#include <algorithm>
+using namespace std;
+using namespace std::chrono;
 
 int elementos[4] = {100,3000,5000,7000};
 int tests = 10;
